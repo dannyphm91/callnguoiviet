@@ -1,0 +1,550 @@
+[
+    {
+        "category" : "1",
+        "title": "Dell Core i5 6th Gen|HDD 1000 Ram 4|With AMD GFX Card",
+        "image": "dummy/product/electronics/computer/del1.webp",
+        "gallery": ["dummy/product/electronics/computer/del1.webp","dummy/product/electronics/computer/del2.webp","dummy/product/electronics/computer/del3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Lenovo Thinkpad x1 Carbon ( Touch ber ) with Bag",
+        "image": "dummy/product/electronics/computer/lenove.webp",
+        "gallery": ["dummy/product/electronics/computer/lenove-1.webp","dummy/product/electronics/computer/lenove-2.webp","dummy/product/electronics/computer/lenove-3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Intel Pentium G6400 10th Gen Special PC",
+        "image": "dummy/product/electronics/computer/intel-pentium-g6400-10th-gen-special-pc-500x500.webp",
+        "gallery": ["dummy/product/electronics/computer/intel-pentum1.webp","dummy/product/electronics/computer/intel-pentum2.webp","dummy/product/electronics/computer/intel-pentum3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Star PC AMD Athlon 3000G",
+        "image": "dummy/product/electronics/computer/star-pc-amd-athlon-3000g-05-500x500.webp",
+        "gallery": ["dummy/product/electronics/computer/star-pc-amd1.webp","dummy/product/electronics/computer/star-pc-amd2.webp","dummy/product/electronics/computer/star-pc-amd3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Star PC Intel Pentium Gold G6400 11th Gen PC",
+        "image": "dummy/product/electronics/computer/g6400-10th-gen-pc-500x500.webp",
+        "gallery": ["dummy/product/electronics/computer/star-pc-11th-gen-1.webp","dummy/product/electronics/computer/star-pc-11th-gen-2.webp","dummy/product/electronics/computer/star-pc-11th-gen-3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Star PC 10th Gen Core i5 10400",
+        "image": "dummy/product/electronics/computer/star-pc-10th-gen-core-i5-10400-001-500x500.webp",
+        "gallery": ["dummy/product/electronics/computer/star-pc-10th-gen-1.webp","dummy/product/electronics/computer/star-pc-10th-gen-2.webp","dummy/product/electronics/computer/star-pc-10th-gen-3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Intel 10th Gen Core i3-10100 Gaming PC",
+        "image": "dummy/product/electronics/computer/intel-10th-gen-core-i3-10100-gaming-pc-500x500.webp",
+        "gallery": ["dummy/product/electronics/computer/intel-gam1ing.webp","dummy/product/electronics/computer/intel-gam2ing.webp","dummy/product/electronics/computer/intel-gam3ing.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Starex 19 NB Wide Led TV Monitor",
+        "image": "dummy/product/tv/starex-31.webp",
+        "gallery": ["dummy/product/tv/starex-19-1.webp","dummy/product/tv/starex-19-2.webp","dummy/product/tv/starex-19-3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Starex 32 GS Smart Android Led Tv Monitor (Double Glass)",
+        "image": "dummy/product/tv/starex-31.webp",
+        "gallery": ["dummy/product/tv/starex-32-1.webp","dummy/product/tv/starex-32-2.webp","dummy/product/tv/starex-32-3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Samsung 32N4010 32 Basic HD LED Television",
+        "image": "dummy/product/tv/samsung32.webp",
+        "gallery": ["dummy/product/tv/samsung-32n4-1.webp","dummy/product/tv/samsung-32n4-2.webp","dummy/product/tv/samsung-32n4-3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Haier H32D2M 32 Inch Miracast HD Non-Smart LED Television",
+        "image": "dummy/product/tv/haier.webp",
+        "gallery": ["dummy/product/tv/haier-mira1.webp","dummy/product/tv/haier-mira2.webp","dummy/product/tv/haier-mira3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Mango MGN1 32 Borderless HD Smart Android LED Television",
+        "image": "dummy/product/tv/mango.webp",
+        "gallery": ["dummy/product/tv/mango-mgn1-1.webp","dummy/product/tv/mango-mgn1-2.webp","dummy/product/tv/mango-mgn1-2.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "MacBook Pro",
+        "image": "dummy/product/electronics/computer/macbookpro.webp",
+        "gallery": ["dummy/product/electronics/computer/macbook-1.webp","dummy/product/electronics/computer/macbook-2.webp","dummy/product/electronics/computer/macbook-3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Samsung Galaxy Book",
+        "image": "dummy/product/electronics/computer/sam-gal-book.webp",
+        "gallery": ["dummy/product/electronics/computer/samsung-galaxy-book-1.webp","dummy/product/electronics/computer/samsung-galaxy-book-2.webp","dummy/product/electronics/computer/samsung-galaxy-book-3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Microsoft Surface Laptop",
+        "image": "dummy/product/electronics/computer/microsoftseface.webp",
+        "gallery": ["dummy/product/electronics/computer/mcrosoft-laptop-1.webp","dummy/product/electronics/computer/mcrosoft-laptop-2.webp","dummy/product/electronics/computer/mcrosoft-laptop-3.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "Infinix INBOOK",
+        "image": "dummy/product/electronics/computer/infixixpro.webp",
+        "gallery": ["dummy/product/electronics/computer/infinix-book1.webp","dummy/product/electronics/computer/infinix-book2.webp","dummy/product/electronics/computer/infinix-book.webp"]
+    },
+    {
+        "category" : "1",
+        "title": "HP Pavilion 15-DK1056WM",
+        "image": "dummy/product/electronics/computer/hp-pavilioin.webp",
+        "gallery": ["dummy/product/electronics/computer/hp-dk1.webp","dummy/product/electronics/computer/hp-dk2.webp","dummy/product/electronics/computer/hp-dk3.webp"]
+    },
+
+
+
+
+
+
+
+    {
+        "category" : "2",
+        "title": "Oneplus 7 Pro GM1910 256GB, 8GB, Dual Sim, 6.67 inch, 48MP Main Lens Triple Camera",
+        "image": "dummy/product/mobile/oneplus.webp",
+        "gallery": ["dummy/product/mobile/oneplus-1.webp","dummy/product/mobile/oneplus-2.webp","dummy/product/mobile/oneplus-2.webp","dummy/product/mobile/oneplus-3.webp"]
+    },
+    {
+        "category" : "2",
+        "subcategory" : "7",
+        "title": "iPhone 11 Pro Max 64G 6.5-inch Genuine Phone With Dual Card and Full Screen",
+        "image": "dummy/product/mobile/iphone-11-pro.webp",
+        "gallery": ["dummy/product/mobile/iphone-11-pro1.webp","dummy/product/mobile/iphone-11-pro2.webp","dummy/product/mobile/iphone-11-pro3.webp"]
+    },
+    {
+        "category" : "2",
+        "subcategory" : "8",
+        "title": "Samsung Galaxy S20 (SM-G980F/DS) Dual SIM 128GB, 6.2 (International Version)",
+        "image": "dummy/product/mobile/samsung-s20.webp",
+        "gallery": ["dummy/product/mobile/samsung-s20-1.webp","dummy/product/mobile/samsung-s20-1.webp","dummy/product/mobile/samsung-s20-3.webp"]
+    },
+    {
+        "category" : "2",
+        "subcategory" : "8",
+        "title": "Samsung Galaxy A51 (SM-A515F/DS) Dual SIM 128GB, GSM Unlocked",
+        "image": "dummy/product/mobile/samsung-galaxy-a5.webp",
+        "gallery": ["dummy/product/mobile/samsung-galaxy-a51-1.webp","dummy/product/mobile/samsung-galaxy-a51-1.webp","dummy/product/mobile/samsung-galaxy-a51-3.webp"]
+    },
+    {
+        "category" : "2",
+        "title": "Huawei Mate 30 6.62 No Google Play TAS-AL00/DS 128GB 8GB RAM (GSM Only, No CDMA) Factory Unlocked",
+        "image": "dummy/product/mobile/huawei-meta.webp",
+        "gallery": ["dummy/product/mobile/huawel-mate1","dummy/product/mobile/huawel-mate2","dummy/product/mobile/huawel-mate3"]
+    },
+    {
+        "category" : "2",
+        "subcategory": "9",
+        "title": "Amazon Fire 7 Quad Core 7 Display Tablet with Alexa",
+        "image": "dummy/product/electronics/tablet/fire-hd-8-500x500.webp",
+        "gallery": ["dummy/product/electronics/tablet/amazon-alexa2.webp","dummy/product/electronics/tablet/amazon-alexa3.webp","dummy/product/electronics/tablet/amazon-alexa3.webp"]
+    },
+    {
+        "category" : "2",
+        "subcategory": "9",
+        "title": "SZFP FP430S Digital Electronic Signature Pad",
+        "image": "dummy/product/electronics/tablet/fp430s-01-500x500.webp",
+        "gallery": ["dummy/product/electronics/tablet/szep-1.webp","dummy/product/electronics/tablet/szep-2.webp","dummy/product/electronics/tablet/szep-3.webp"]
+    },
+    {
+        "category" : "2",
+        "subcategory": "9",
+        "title": "Realme Pad Helio G80 3GB RAM 32GB ROM 10.4 Android Tablet",
+        "image": "dummy/product/electronics/tablet/realme-pad-01-500x500.webp",
+        "gallery": ["dummy/product/electronics/tablet/realme-1.webp","dummy/product/electronics/tablet/realme-2.webp","dummy/product/electronics/tablet/realme-3.webp"]
+    },
+    {
+        "category" : "2",
+        "subcategory": "9",
+        "title": "Samsung Galaxy Tab A 8.0 2GB RAM 32GB ROM 8 Android Tablet",
+        "image": "dummy/product/electronics/tablet/samsung-galaxy-tab-a-8-0-01-500x500.webp",
+        "gallery": ["dummy/product/electronics/tablet/samsung-galaxy-tab-a-8-0-01-500x500.webp","dummy/product/electronics/tablet/samsung-galaxy-tab-a-8-0-01-500x500.webp","dummy/product/electronics/tablet/samsung-galaxy-tab-a-8-0-01-500x500.webp"]
+    },
+    {
+        "category" : "2",
+        "subcategory": "9",
+        "title": "Lenovo Tab M8 (2nd Gen) 8 3GB RAM 32GB Storage Android Tablet",
+        "image": "dummy/product/electronics/tablet/tab-m8-01-500x500.webp",
+        "gallery": ["dummy/product/electronics/tablet/lenovo-tab-1.webp","dummy/product/electronics/tablet/lenovo-tab-2.webp","dummy/product/electronics/tablet/lenovo-tab-3.webp"]
+    },
+    {
+        "category" : "2",
+        "subcategory": "9",
+        "title": "Walton Walpad 10P Tablet",
+        "image": "dummy/product/electronics/tablet/walpad-10p-001-500x500.webp",
+        "gallery": ["dummy/product/electronics/tablet/walton-walpad-1.webp","dummy/product/electronics/tablet/walton-walpad-2.webp","dummy/product/electronics/tablet/walton-walpad-3.webp"]
+    },
+
+
+
+
+
+    {
+        "category" : "5",
+        "subcategory" : "10",
+        "title": "Affordable L Shaped Fabrics Sofa L662",
+        "image": "dummy/product/furniture/sofa/affordable-sofa1.webp",
+        "gallery": ["dummy/product/furniture/sofa/affordable-sofa1.webp","dummy/product/furniture/sofa/affordable-sofa2.webp","dummy/product/furniture/sofa/affordable-sofa1.webp"]
+    },
+    {
+        "category" : "5",
+        "subcategory" : "10",
+        "title": "Gorgeous Sofa with Fabric and Leather",
+        "image": "dummy/product/furniture/sofa/fabrics_sofa_20(1)-500x554.webp",
+        "gallery": ["dummy/product/furniture/sofa/gorgeous-leather1.webp","dummy/product/furniture/sofa/gorgeous-leather2.webp","dummy/product/furniture/sofa/gorgeous-leather3.webp"]
+    },
+    {
+        "category" : "5",
+        "subcategory" : "10",
+        "title": "Affordable Sofa WS59 (3 Seater+ 2 Seater+ Divan)",
+        "image": "dummy/product/furniture/sofa/sofa_20(3)-500x554.webp",
+        "gallery": ["dummy/product/furniture/sofa/affordable-sofa-ws591.webp","dummy/product/furniture/sofa/affordable-sofa-ws592.webp","dummy/product/furniture/sofa/affordable-sofa-ws593.webp"]
+    },
+    {
+        "category" : "5",
+        "subcategory" : "10",
+        "title": "Sofa for Coffe Cafe",
+        "image": "dummy/product/furniture/sofa.webp",
+        "gallery": ["dummy/product/furniture/sofa-coffe-cafe-1.webp","dummy/product/furniture/sofa-coffe-cafe-2.webp","dummy/product/furniture/sofa-coffe-cafe-3.webp"]
+    },
+    {
+        "category" : "5",
+        "subcategory" : "12",
+        "title": "Marble Dining Table DT701 (4 Chairs + 1 Table)",
+        "image": "dummy/product/furniture/chair/1152133068-645633204-500x554.webp",
+        "gallery": ["dummy/product/furniture/chair/marble-table-dt701-1.webp","dummy/product/furniture/chair/marble-table-dt701-2.webp","dummy/product/furniture/chair/marble-table-dt701-3.webp"]
+    },
+    {
+        "category" : "5",
+        "subcategory" : "12",
+        "title": "Marble Dining Table DT350 (6 Chairs + 1 Table)",
+        "image": "dummy/product/furniture/chair/DT350-500x554.webp",
+        "gallery": ["dummy/product/furniture/chair/marble-dt-250-1.webp","dummy/product/furniture/chair/marble-dt-250-2.webp","dummy/product/furniture/chair/marble-dt-250-3.webp"]
+    },
+    {
+        "category" : "5",
+        "subcategory" : "12",
+        "title": "Space Saving New Round Dining Table DT681 (6 Chairs + 1 Table)",
+        "image": "dummy/product/furniture/table/236414501_380020470183402_6296263758869989113_n-500x554.webp",
+        "gallery": ["dummy/product/furniture/table/space-saving-1.webp","dummy/product/furniture/table/space-saving-2.webp","dummy/product/furniture/table/space-saving-3.webp"]
+    },
+    {
+        "category" : "5",
+        "subcategory" : "12",
+        "title": "Marble Dining Table 350 (6 Chairs + 1 Table)",
+        "image": "dummy/product/furniture/table/DT350-500x554 (1).webp",
+        "gallery": ["dummy/product/furniture/table/marble-table-1.webp","dummy/product/furniture/table/marble-table-2.webp","dummy/product/furniture/table/marble-table-3.webp"]
+    },
+    {
+        "category" : "5",
+        "subcategory" : "12",
+        "title": "Marble Table DT352 (6 Chairs + 1 Table)",
+        "image": "dummy/product/furniture/table/ssDT352-500x554 (1).webp",
+        "gallery": ["dummy/product/furniture/table/marble-dt341-1.webp","dummy/product/furniture/table/marble-dt341-2.webp","dummy/product/furniture/table/marble-dt341-3.webp"]
+    },
+    {
+        "category" : "5",
+        "subcategory" : "12",
+        "title": "Plastic Table",
+        "image": "dummy/product/furniture/plastictable.webp",
+        "gallery": ["dummy/product/furniture/table-1.webp","dummy/product/furniture/table-2.webp","dummy/product/furniture/table-3.webp"]
+    },
+    {
+        "category" : "5",
+        "title": "Mornadi Velvet Bed",
+        "image": "dummy/product/furniture/bed.webp",
+        "gallery": ["dummy/product/furniture/mornadi-velvet-bed-1.webp","dummy/product/furniture/mornadi-velvet-bed-2.webp","dummy/product/furniture/mornadi-velvet-bed-3.webp"]
+    },
+    {
+        "category" : "5",
+        "title": "3 Tier Corner Shelves",
+        "image": "dummy/product/furniture/3-1tier-corder.webp",
+        "gallery": ["dummy/product/furniture/3-1tier-corder.webp","dummy/product/furniture/3-2tier-corder.webp","dummy/product/furniture/3-3tier-corder.webp"]
+    },
+    {
+        "category" : "5",
+        "title": "3 DOOR PORTABLE",
+        "image": "dummy/product/furniture/3door.webp",
+        "gallery": ["dummy/product/furniture/door1.webp","dummy/product/furniture/door2.webp","dummy/product/furniture/door1.webp"]
+    },
+
+
+
+
+
+    {
+        "category" : "4",
+        "title": "Magic Shot Mini Basketball for Kids and Adults - Red - basketball_set_mini",
+        "image": "dummy/product/sports/team/kKkEbKlBbOcmATxpuv9UaziFErRE6b06AmMLDblR.webp",
+        "gallery": ["dummy/product/sports/team/magic-shot-1.webp","dummy/product/sports/team/magic-shot-2.webp","dummy/product/sports/team/magic-shot-3.webp"]
+    },
+    {
+        "category" : "4",
+        "title": "Barca/Barcelona Machine Stitched Club Football - 5 Number - Blue - football_barca_r&b",
+        "image": "dummy/product/sports/team/tEpQxgNRAwrHaDI0jFx8TKY9lufL1q0gzkAfx7Jp.webp",
+        "gallery": ["dummy/product/sports/team/barca-football1.webp","dummy/product/sports/team/barca-football2.webp","dummy/product/sports/team/barca-football3.webp"]
+    },
+    {
+        "category" : "4",
+        "title": "Chelsea Machine Stitched Club Football - 5 Number - Blue - football_chelsea",
+        "image": "dummy/product/sports/team/WdzCnNaB4h4tKv5RevgTjMESdbDGq9ZXzY6Se9sm.webp",
+        "gallery": ["dummy/product/sports/team/chelsea-machine-football1.webp","dummy/product/sports/team/chelsea-machine-football2.webp","dummy/product/sports/team/chelsea-machine-football3.webp"]
+    },
+    {
+        "category" : "4",
+        "title": "UEFA EURO-2020 Machine Stitched Training Football - 5 Number - Multicolor - football_euro2020Cotton Lace Transparent Love print Mesh Ankle Socks for Women - Yellow",
+        "image": "dummy/product/sports/shoes/0GTC5JBAiNXK34c0kgqZQpLxlYgPW2LXT4IHQE7n.webp",
+        "gallery": ["dummy/product/sports/shoes/wefa-1","dummy/product/sports/shoes/wefa-2.webp","dummy/product/sports/shoes/wefa-3.webp"]
+    },
+    {
+        "category" : "4",
+        "title": "Premium Quality Riding Jersey - Multicolor",
+        "image": "dummy/product/sports/shoes/11LuBk3IxfwLQKpYRjVkLN9KUGO7WORb2KcAtYel.webp",
+        "gallery": ["dummy/product/sports/shoes/riding-jersey-1.webp","dummy/product/sports/shoes/riding-jersey-2.webp","dummy/product/sports/shoes/riding-jersey-3.webp"]
+    },
+    {
+        "category" : "4",
+        "title": "Yoga Mat - Pink",
+        "image": "dummy/product/sports/fitness/6egQc7LpN2hyzL4wmePCR99yHsebM5TDeSzdrz9k.webp",
+        "gallery": ["dummy/product/sports/fitness/6egQc7LpN2hyzL4wmePCR99yHsebM5TDeSzdrz9k.webp","dummy/product/sports/fitness/Foam-Yoga-Mat-Magenta.webp","dummy/product/sports/fitness/download.webp"]
+    },
+    {
+        "category" : "4",
+        "title": "Buy yoga Gym Ball and Get Vinyl Dumbbell - 1 Kg with Pair FREE",
+        "image": "dummy/product/sports/fitness/SQ5qAz4tlRSDA65aHPG76Bp4ZiDDsNbc9mT9X39y.webp",
+        "gallery": ["dummy/product/sports/fitness/buy-yoga-dumbblell1.webp","dummy/product/sports/fitness/buy-yoga-dumbblell3.webp","dummy/product/sports/fitness/buy-yoga-dumbblell2.webp","dummy/product/sports/fitness/buy-yoga-dumbblell3.webp"]
+    },
+    {
+        "category" : "4",
+        "title": "Fitness Sit-ups Equipment for Home Exercise - Yellow and Black",
+        "image": "dummy/product/sports/fitness/ynqREyIu5tgH3CLAZGXbXni0mTYbzLefw71lLUEs.webp",
+        "gallery": ["dummy/product/sports/fitness/fitness1.webp","dummy/product/sports/fitness/fitness2.webp","dummy/product/sports/fitness/fitness3.webp"]
+    },
+    {
+        "category" : "4",
+        "title": "Resistance Band Set 5-In-1",
+        "image": "dummy/product/real-estate/resistance-1.webp",
+        "gallery": ["dummy/product/sports/fitness/resistance-2.webp","dummy/product/sports/fitness/resistance-3.webp","dummy/product/sports/fitness/resistance-4.webp"]
+    },
+
+
+
+
+
+    {
+        "category" : "6",
+        "title": "Apartment For Sell in Sofia",
+        "image": "dummy/product/real-estate/Apartment.webp",
+        "gallery": ["dummy/product/real-estate/apartment-sofia1.webp","dummy/product/real-estate/apartment-sofia1.webp","dummy/product/real-estate/apartment-sofia1.webp"]
+    },
+    {
+        "category" : "6",
+        "title": "Guest House For Rent In Florida",
+        "image": "dummy/product/real-estate/Guest.webp",
+        "gallery": ["dummy/product/real-estate/guest1.webp","dummy/product/real-estate/guest2.webp","dummy/product/real-estate/guest3.webp"]
+    },
+    {
+        "category" : "6",
+        "title": "Villa for Rent in New Jersey",
+        "image": "dummy/product/real-estate/Villa.webp",
+        "gallery": ["dummy/product/real-estate/villa-rent-1.webp","dummy/product/real-estate/villa-rent-2.webp","dummy/product/real-estate/villa-rent-3.webp"]
+    },
+    {
+        "category" : "6",
+        "title": "Apartment For Sell in Da Nang ",
+        "image": "dummy/product/real-estate/Nang.webp",
+        "gallery": ["dummy/product/real-estate/apartment-nang1.webp","dummy/product/real-estate/apartment-nang2.webp","dummy/product/real-estate/apartment-nang3.webp"]
+    },
+    {
+        "category" : "6",
+        "title": "Apartment For sell in NY",
+        "image": "dummy/product/real-estate/NY.webp",
+        "gallery": ["dummy/product/real-estate/apartment-ny1.webp","dummy/product/real-estate/apartment-ny2.webp","dummy/product/real-estate/apartment-ny3.webp"]
+    },
+    {
+        "category" : "6",
+        "title": "Apartment For Sell in Berlin",
+        "image": "dummy/product/real-estate/Berlin.webp",
+        "gallery": ["dummy/product/real-estate/aparetment-berlin1.webp","dummy/product/real-estate/aparetment-berlin1.webp","dummy/product/real-estate/aparetment-berlin1.webp"]
+    },
+    {
+        "category" : "6",
+        "title": "Apartment For sell in Toronto",
+        "image": "dummy/product/real-estate/Toronto.webp",
+        "gallery": ["dummy/product/real-estate/apartment-toronto1.webp","dummy/product/real-estate/apartment-toronto2.webp","dummy/product/real-estate/apartment-toronto3.webp"]
+    },
+    {
+        "category" : "6",
+        "title": "Office For Rent In California",
+        "image": "dummy/product/real-estate/California.webp",
+        "gallery": ["dummy/product/real-estate/office-califonia-1.webp","dummy/product/real-estate/office-califonia-2.webp","dummy/product/real-estate/office-califonia-3.webp"]
+    },
+
+
+    {
+        "category" : "3",
+        "subcategory" : "8",
+        "title": "Selling 2014 Toyota Camry",
+        "image": "dummy/product/vehicles/car/Camry.webp",
+        "gallery": ["dummy/product/vehicles/car/selling-camry-1.webp","dummy/product/vehicles/car/selling-camry-2.webp","dummy/product/vehicles/car/selling-camry-3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "8",
+        "title": "Tesla Cybertruck silver",
+        "image": "dummy/product/vehicles/car/tesla-sliver.webp",
+        "gallery": ["dummy/product/vehicles/car/tesla-cybertrack-1.webp","dummy/product/vehicles/car/tesla-cybertrack-2.webp","dummy/product/vehicles/car/tesla-cybertrack-3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "8",
+        "title": "Urgent sell 2015 Nissan Altima",
+        "image": "dummy/product/vehicles/car/Altima.webp",
+        "gallery": ["dummy/product/vehicles/car/urgent-sell-1.webp","dummy/product/vehicles/car/urgent-sell-2.webp","dummy/product/vehicles/car/urgent-sell-3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "8",
+        "title": "BMW i3 used",
+        "image": "dummy/product/vehicles/car/bmw.webp",
+        "gallery": ["dummy/product/vehicles/car/bmw-i3-1.webp","dummy/product/vehicles/car/bmw-i3-2.webp","dummy/product/vehicles/car/bmw-i3-3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "8",
+        "title": "Acura RDX for sale",
+        "image": "dummy/product/vehicles/car/Acura.webp",
+        "gallery": ["dummy/product/vehicles/car/acura-rdx1.webp","dummy/product/vehicles/car/acura-rdx2.webp","dummy/product/vehicles/car/acura-rdx3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "8",
+        "title": "Dodge Grand Caravan for sale",
+        "image": "dummy/product/vehicles/car/Dodge.webp",
+        "gallery": ["dummy/product/vehicles/car/dodge-sale1.webp","dummy/product/vehicles/car/dodge-sale1.webp","dummy/product/vehicles/car/dodge-sale1.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "8",
+        "title": "Chevrolet Volt",
+        "image": "dummy/product/vehicles/car/Volt.webp",
+        "gallery": ["dummy/product/vehicles/car/chevrolet1.webp","dummy/product/vehicles/car/chevrolet2.webp","dummy/product/vehicles/car/chevrolet3.webp"]
+    },
+
+    {
+        "category" : "3",
+        "subcategory" : "8",
+        "title": "Chevrolet Equinox (2022) used",
+        "image": "dummy/product/vehicles/car/Equinox.webp",
+        "gallery": ["dummy/product/vehicles/car/chevrolet-used1.webp","dummy/product/vehicles/car/chevrolet-used2.webp","dummy/product/vehicles/car/chevrolet-used3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "8",
+        "title": "Tesla Roadster",
+        "image": "dummy/product/vehicles/car/Roadster.webp",
+        "gallery": ["dummy/product/vehicles/car/tesla-roadstar-1.webp","dummy/product/vehicles/car/tesla-roadstar-2.webp","dummy/product/vehicles/car/tesla-roadstar-3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "8",
+        "title": "Jeep Grand Cherokee white",
+        "image": "dummy/product/vehicles/car/Jeep.webp",
+        "gallery": ["dummy/product/vehicles/car/jeep-grand1.webp","dummy/product/vehicles/car/jeep-grand2.webp","dummy/product/vehicles/car/jeep-grand3.webp"]
+    },
+
+
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "TVS Stryker 125cc Motor Cycle - Black and Red",
+        "image": "dummy/product/vehicles/bike/TVS-Stryker.webp",
+        "gallery": ["dummy/product/vehicles/bike/tvs-stryker-black-red-1.webp","dummy/product/vehicles/bike/tvs-stryker-black-red-2.webp","dummy/product/vehicles/bike/tvs-stryker-black-red-3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "Bajaj Discover 125 (125cc) Disc Brake Motorcycle - Blue",
+        "image": "dummy/product/vehicles/bike/Bajaj-Discover-blue.webp",
+        "gallery": ["dummy/product/vehicles/bike/bajaj-blue1.webp","dummy/product/vehicles/bike/bajaj-blue2.webp","dummy/product/vehicles/bike/bajaj-blue3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "Bajaj Pulsar 150 (149CC) Twin Disc Motorcycle - Blue and Black",
+        "image": "dummy/product/vehicles/bike/Bajaj-Discover-black.webp",
+        "gallery": ["dummy/product/vehicles/bike/bajaj-blue-black1.webp","dummy/product/vehicles/bike/bajaj-blue-black1.webp","dummy/product/vehicles/bike/bajaj-blue-black1.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "Bajaj Discover 125 (125cc) Disc Brake Motorcycle - Black Red",
+        "image": "dummy/product/vehicles/bike/Bajaj-Discover-red.webp",
+        "gallery": ["dummy/product/vehicles/bike/bajaj-black-red1.webp","dummy/product/vehicles/bike/bajaj-black-red2.webp","dummy/product/vehicles/bike/bajaj-black-red3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "TVS Apache RTR 160CC Motor Cycle (SD) - Red",
+        "image": "dummy/product/vehicles/bike/TVS-Apache.webp",
+        "gallery": ["dummy/product/vehicles/bike/tvs-rtr-1.webp","dummy/product/vehicles/bike/tvs-rtr-2.webp","dummy/product/vehicles/bike/tvs-rtr-3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "Hero New Glamour BS4 Candy Blazing Red- 125 CC",
+        "image": "dummy/product/vehicles/bike/Candy-Blazing.webp",
+        "gallery": ["dummy/product/vehicles/bike/hero-candy1.webp","dummy/product/vehicles/bike/hero-candy2.webp","dummy/product/vehicles/bike/hero-candy3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "TVS Raider 125",
+        "image": "dummy/product/vehicles/bike/TVS-Raider.webp",
+        "gallery": ["dummy/product/vehicles/bike/tvs-raider-1.webp","dummy/product/vehicles/bike/tvs-raider-2.webp","dummy/product/vehicles/bike/tvs-raider-3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "Hero Splendor Plus 25 Years Special Edition- Gold Black- 100 CC",
+        "image": "dummy/product/vehicles/bike/Hero-Splendor.webp",
+        "gallery": ["dummy/product/vehicles/bike/hero-gold-black1.webp","dummy/product/vehicles/bike/hero-gold-black2.webp","dummy/product/vehicles/bike/hero-gold-black3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "Hero Splendor Plus 25 Years Special Edition- Gold Black- 100 CC",
+        "image": "dummy/product/vehicles/bike/Splendor.webp",
+        "gallery": ["dummy/product/vehicles/bike/hero-gold-black1.webp","dummy/product/vehicles/bike/hero-gold-black2.webp","dummy/product/vehicles/bike/hero-gold-black3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "Hero Ignitor - Techno BS4 Motorbike 125cc",
+        "image": "dummy/product/vehicles/bike/Techno.webp",
+        "gallery": ["dummy/product/vehicles/bike/hero-ignitor-1.webp","dummy/product/vehicles/bike/hero-ignitor-2.webp","dummy/product/vehicles/bike/hero-ignitor-3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "TVS Metro Plus 110cc Motor Cycle Drum - Red",
+        "image": "dummy/product/vehicles/bike/TVS.webp",
+        "gallery": ["dummy/product/vehicles/bike/tvs-metro-plus1.webp","dummy/product/vehicles/bike/tvs-metro-plus2.webp","dummy/product/vehicles/bike/tvs-metro-plus3.webp"]
+    },
+    {
+        "category" : "3",
+        "subcategory" : "9",
+        "title": "Bajaj Discover 125 (125cc) Disc Brake Motorcycle - Red",
+        "image": "dummy/product/vehicles/bike/bajaj-disc.webp",
+        "gallery": ["dummy/product/vehicles/bike/bajaj-red1.webp","dummy/product/vehicles/bike/bajaj-red2.webp","dummy/product/vehicles/bike/bajaj-red3.webp"]
+    }
+]

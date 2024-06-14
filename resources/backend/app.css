@@ -1,0 +1,4 @@
+@import "../../public/backend/dist/css/adminlte-variable.min.css";
+@import "../../public/backend/css/google-font.css";
+@import "../../public/backend/plugins/toastr/toastr.min.css";
+@import "../backend/templatecookie.css";

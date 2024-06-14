@@ -1,0 +1,54 @@
+{
+  "__commonjsHelpers-725317a4.js": {
+    "file": "assets/_commonjsHelpers-725317a4.js"
+  },
+  "public/frontend/images/dropdown-check.png": {
+    "file": "assets/dropdown-check-1147c3b7.png",
+    "src": "public/frontend/images/dropdown-check.png"
+  },
+  "resources/backend/app.css": {
+    "file": "assets/app-2ca1ebf9.css",
+    "isEntry": true,
+    "src": "resources/backend/app.css"
+  },
+  "resources/frontend/css/app.css": {
+    "file": "assets/app-322be9a7.css",
+    "isEntry": true,
+    "src": "resources/frontend/css/app.css"
+  },
+  "resources/frontend/js/app.css": {
+    "file": "assets/app-4c537091.css",
+    "src": "resources/frontend/js/app.css"
+  },
+  "resources/frontend/js/app.js": {
+    "css": [
+      "assets/app-4c537091.css"
+    ],
+    "file": "assets/app-cc92e25d.js",
+    "imports": [
+      "__commonjsHelpers-725317a4.js"
+    ],
+    "isEntry": true,
+    "src": "resources/frontend/js/app.js"
+  },
+  "resources/frontend/js/filepond.css": {
+    "file": "assets/filepond-783fe5b1.css",
+    "src": "resources/frontend/js/filepond.css"
+  },
+  "resources/frontend/js/filepond.js": {
+    "css": [
+      "assets/filepond-783fe5b1.css"
+    ],
+    "file": "assets/filepond-a0d58302.js",
+    "isEntry": true,
+    "src": "resources/frontend/js/filepond.js"
+  },
+  "resources/frontend/js/vue-config.js": {
+    "file": "assets/vue-config-d1f8ad16.js",
+    "imports": [
+      "__commonjsHelpers-725317a4.js"
+    ],
+    "isEntry": true,
+    "src": "resources/frontend/js/vue-config.js"
+  }
+}

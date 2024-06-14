@@ -1,0 +1,27 @@
+@import "../../../public/backend/plugins/toastr/toastr.min.css";
+@import "../../../public/frontend/css/sweet-alert.css";
+@import url('./tailwind.css');
+@import url('./templatecookie.css');
+
+.fa-1x {
+  font-size: 24px !important;
+}
+
+.verify-badge2 {
+  left: 38px;
+  position: absolute;
+  bottom: 5px;
+  right: -2px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9;
+}
+
+div[drawer-backdrop],
+div[drawer-backdrop] {
+  background: rgba(0, 0, 0, 0.5) !important;
+}
+body:has(div[drawer-backdrop]) div[modal-backdrop] {
+    z-index: 35 !important;
+}
